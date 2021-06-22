@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import BookApp from './Books';
+import BookApp from './BookApp/BookApp';
 
 ReactDOM.render(
   <React.StrictMode>

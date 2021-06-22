@@ -1,6 +1,6 @@
-// ANCHOR
+// ANCHOR Extension
 // NOTE some basic idea to setup react components and work
-// REVIEW: refactpred one of this can be found in Books.js
+// REVIEW: refactored code of this can be found in BookApp
 
 import './App.css';
 // Setup
